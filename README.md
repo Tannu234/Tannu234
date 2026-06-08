@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&background=0D111700&width=700&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🧠+Currently+mastering+DSA;⚡+Turning+ideas+into+web+apps;🌱+Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&background=0D111700&width=700&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🧠+Currently+learning+DSA;⚡+Turning+ideas+into+web+apps;🌱+Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Women Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
-
-<br/>
+<img align="right" width="380" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="Cute Coding Cat">
 
 - 🔭 &nbsp; I'm currently working on **React.js** projects and building **responsive web applications**
 - 👯 &nbsp; I'm looking to collaborate on **Open Source** and **Frontend Development** projects  
