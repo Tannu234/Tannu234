@@ -1,32 +1,32 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tamanna%20Baghel&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there!%20I'm%20Tamanna%20👋&fontSize=50&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Learner&descAlignY=58&descSize=20&descColor=bf5fff" />
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tamanna+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Currently+Learning+DSA+%F0%9F%A7%A0;Turning+Ideas+into+Reality+%E2%9A%A1)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&background=0D111700&width=700&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🧠+Currently+mastering+DSA;⚡+Turning+ideas+into+web+apps;🌱+Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 ---
 
-## 🚀 About Me
+## 🌸 About Me
 
-```javascript
-const tamanna = {
-  name: "Tamanna Baghel",
-  username: "Tannu234",
-  pronouns: "she/her",
-  location: "India 🇮🇳",
-  currentlyBuilding: ["React.js projects", "Responsive Web Apps"],
-  currentlyLearning: ["DSA", "MERN Stack", "System Design"],
-  lookingFor: ["Open Source Collaborations", "Frontend Projects"],
-  askMeAbout: ["React", "JavaScript", "HTML/CSS", "Tailwind CSS", "Git"],
-  funFact: "I enjoy turning ideas into interactive web apps ⚡"
-};
-```
+<img align="right" alt="Women Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
+
+<br/>
+
+- 🔭 &nbsp; I'm currently working on **React.js** projects and building **responsive web applications**
+- 👯 &nbsp; I'm looking to collaborate on **Open Source** and **Frontend Development** projects  
+- 🤝 &nbsp; I'm looking for help with **Full Stack Development** and **System Design**
+- 🌱 &nbsp; I'm currently learning **MERN Stack**, **Data Structures & Algorithms**, and **GitHub**
+- 💬 &nbsp; Ask me about **React.js, JavaScript, HTML, CSS, Tailwind CSS** and **Git**
+- 📫 &nbsp; How to reach me: **tamannabaghel322@gmail.com**
+- ⚡ &nbsp; Fun fact: I enjoy turning ideas into **interactive web applications** and learning new technologies!
+
+<br/><br/>
 
 ---
 
@@ -35,11 +35,11 @@ const tamanna = {
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -47,7 +47,7 @@ const tamanna = {
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🔧 Backend
+### 🔧 Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -58,12 +58,10 @@ const tamanna = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🎨 Design & Tools
+### 🎨 Design & Version Control
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,43 +72,38 @@ const tamanna = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tannu234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannu234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tannu234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannu234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tannu234&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=Tannu234&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🗺️ Roadmap & Learning Journey
+## 🗺️ My Developer Journey
 
-```
-✅ HTML, CSS, JavaScript Basics
-✅ React.js + Tailwind CSS
-✅ Backend: Node.js + Express.js
-✅ Database: MongoDB + MySQL
-✅ Full Stack (MERN) Projects
-✅ Deployment: Vercel + Netlify
-🔄 DSA (Data Structures & Algorithms) ← Currently Here
-⏳ System Design
-⏳ Advanced TypeScript
-⏳ Contribute to Open Source
+```text
+✅  HTML · CSS · JavaScript          — Strong Foundation
+✅  React.js + Tailwind CSS          — Frontend Mastered
+✅  Node.js · Express.js             — Backend Unlocked
+✅  MongoDB · MySQL                  — Database Skills
+✅  MERN Stack Projects              — Full Stack Done!
+✅  Vercel · Netlify Deployment      — Apps Live in Production
+🔥  DSA (Data Structures & Algo)    — Currently Grinding!
+⏳  System Design                    — Next Goal
+⏳  Open Source Contributions        — Coming Soon
 ```
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect with Me
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannabaghel322@gmail.com)
 
 </div>
@@ -119,10 +112,12 @@ const tamanna = {
 
 <div align="center">
 
-### 💡 *"Code is not just syntax — it's a way of thinking."*
+### ✨ *"The best way to predict the future is to build it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tannu234&color=blueviolet&style=for-the-badge)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=Tannu234&color=00fff2&style=for-the-badge&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
 </div>
