@@ -20,7 +20,6 @@
 - 👯 &nbsp; I'm looking to collaborate on **Open Source** and **Frontend Development** projects  
 - 🤝 &nbsp; I'm looking for help with **Full Stack Development** and **System Design**
 - 🌱 &nbsp; I'm currently learning **MERN Stack**, **Data Structures & Algorithms**, and **GitHub**
-- 💬 &nbsp; Ask me about **React.js, JavaScript, HTML, CSS, Tailwind CSS** and **Git**
 - 📫 &nbsp; How to reach me: **tamannabaghel322@gmail.com**
 - ⚡ &nbsp; Fun fact: I enjoy turning ideas into **interactive web applications** and learning new technologies!
 
@@ -89,7 +88,7 @@
 ✅  MongoDB · MySQL                  — Database Skills
 ✅  MERN Stack Projects              — Full Stack Done!
 ✅  Vercel · Netlify Deployment      — Apps Live in Production
-🔥  DSA (Data Structures & Algo)    — Currently Grinding!
+🔥  DSA (Data Structures & Algo)     — Currently Grinding!
 ⏳  System Design                    — Next Goal
 ⏳  Open Source Contributions        — Coming Soon
 ```
@@ -114,7 +113,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tannu234&color=00fff2&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
