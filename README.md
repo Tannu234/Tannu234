@@ -1,119 +1,153 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20there!%20I'm%20Tamanna%20👋&fontSize=50&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Learner&descAlignY=58&descSize=20&descColor=bf5fff" />
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5D3A,100:8B5CF6&height=200&section=header&text=Hi,%20I'm%20Tamanna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20things%20that%20ship%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&background=0D111700&width=700&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🧠+Currently+learning+DSA;⚡+Turning+ideas+into+web+apps;🌱+Always+learning+something+new)](https://git.io/typing-svg)
-
-</div>
+<a href="https://github.com/Tannu234">
+  <img src="https://readme-typing-svg.demolab.com/?lines=full-stack+developer;MERN+stack+builder;AI%2FML+student+%40+RGPV+Bhopal;currently+shipping+Zaika+Go+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=40&color=8B5CF6&vCenter=true&size=20"/>
+</a>
 
 <br/>
 
----
-
-## 🌸 About Me
-
-<img align="right" width="380" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="Cute Coding Cat">
-
-- 🔭 &nbsp; I'm currently working on **React.js** projects and building **responsive web applications**
-- 👯 &nbsp; I'm looking to collaborate on **Open Source** and **Frontend Development** projects  
-- 🤝 &nbsp; I'm looking for help with **Full Stack Development** and **System Design**
-- 🌱 &nbsp; I'm currently learning **MERN Stack**, **Data Structures & Algorithms**, and **GitHub**
-- 📫 &nbsp; How to reach me: **tamannabaghel322@gmail.com**
-- ⚡ &nbsp; Fun fact: I enjoy turning ideas into **interactive web applications** and learning new technologies!
+<a href="mailto:tamannabaghel322@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF5D3A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-22D3A6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🎨 Design & Version Control
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tannu234&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannu234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tannu234&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🗺️ My Developer Journey
-
-```text
-✅  HTML · CSS · JavaScript          — Strong Foundation
-✅  React.js + Tailwind CSS          — Frontend Mastered
-✅  Node.js · Express.js             — Backend Unlocked
-✅  MongoDB · MySQL                  — Database Skills
-✅  MERN Stack Projects              — Full Stack Done!
-✅  Vercel · Netlify Deployment      — Apps Live in Production
-🔥  DSA (Data Structures & Algo)     — Currently Grinding!
-⏳  System Design                    — Next Goal
-⏳  Open Source Contributions        — Coming Soon
-```
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamannabaghel322@gmail.com)
+<img src="https://raw.githubusercontent.com/Tannu234/Tannu234/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ *"The best way to predict the future is to build it."*
 
 <br/>
 
+## About me
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+- 🎓 3rd-year **B.Tech, AI & Machine Learning** — RGPV Bhopal · class of 2027
+- 🛠️ Building **full-stack MERN apps** end to end — frontend, backend, deployment, all of it
+- 🚚 Currently shipping **[Zaika Go](https://github.com/Tannu234/AI-Food-delivering)** — a Swiggy-inspired food delivery platform, live on Netlify + Render + MongoDB Atlas
+- 🎣 Also built **PhishNet** — a phishing detection system pairing a React frontend with a live FastAPI ML backend
+- 📚 Currently deepening: **Data Structures & Algorithms**, **System Design**
+- ⚡ Fun fact: I enjoy turning ideas into interactive web apps faster than I can name my variables well
+
+<br/>
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 [Zaika Go](https://github.com/Tannu234/AI-Food-delivering)
+Full-stack food delivery app — browse restaurants, cart, Stripe checkout, and AI-summarized reviews via Groq Llama 3.1.
+
+`React` `Redux` `Node.js` `Express` `MongoDB Atlas` `Stripe`
+
+**● live** on Netlify / Render
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [PhishNet](https://phishnet-t6pj.onrender.com)
+Phishing detection system — React frontend backed by a live FastAPI ML model catching malicious URLs.
+
+`React` `Vite` `FastAPI` `Python` `ML`
+
+**● live** on Render
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Freshmart UI
+Frontend e-commerce UI project focused on clean component design and responsive layout.
+
+`JavaScript` `HTML` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧇 Waffle Co.
+Belgian-waffle-inspired storefront — category tabs, veg/non-veg indicators, slide-in cart, INR pricing.
+
+`React` `Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,py"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux"/>
+
+**Backend & tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,git,github,postman"/>
+
+**Databases & cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,vercel,netlify"/>
+
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,canva"/>
+
+</div>
+
+<br/>
+
+## My journey so far
+
+```text
+✅ HTML · CSS · JavaScript          → strong foundation
+✅ React + Tailwind CSS             → frontend mastered
+✅ Node.js · Express.js             → backend unlocked
+✅ MongoDB · MySQL                  → database skills
+✅ MERN stack projects              → full stack, done
+✅ Vercel · Netlify deployment      → apps live in production
+🔶 DSA (Data Structures & Algo)     → currently grinding
+⬜ System design                     → next up
+⬜ Open source contributions         → coming soon
+```
+
+<br/>
+
+## GitHub stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tannu234&show_icons=true&theme=radical&hide_border=true&bg_color=150A26&title_color=FF5D3A&icon_color=22D3A6&text_color=F4EEFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tannu234&layout=compact&theme=radical&hide_border=true&bg_color=150A26&title_color=8B5CF6&text_color=F4EEFF"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tannu234&theme=radical&hide_border=true&background=150A26&stroke=8B5CF6&ring=FF5D3A&fire=FF5D3A&currStreakLabel=22D3A6"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tannu234&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tannu234&label=Profile%20views&color=8B5CF6&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:FF5D3A&height=100&section=footer" width="100%"/>
 
 </div>
